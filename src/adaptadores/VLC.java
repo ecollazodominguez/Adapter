@@ -1,5 +1,9 @@
 package adaptadores;
 
+/**
+ * Clase que implementa de MediaPackage, reproduce archivos VLC
+ * @author ecollazodominguez
+ */
 public class VLC implements MediaPackage{
 
     @Override

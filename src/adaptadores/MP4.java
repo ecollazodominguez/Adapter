@@ -1,5 +1,8 @@
 package adaptadores;
-
+/**
+ * Clase que implementa de MediaPackage, reproduce archivos MP4
+ * @author ecollazodominguez
+ */
 public class MP4 implements MediaPackage {
 
     @Override

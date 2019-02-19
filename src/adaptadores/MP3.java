@@ -1,5 +1,8 @@
 package adaptadores;
-
+/**
+ * Clase que implementa de MediaPlayer, reproduce archivos MP3
+ * @author ecollazodominguez
+ */
 public class MP3 implements MediaPlayer {
 
     @Override
